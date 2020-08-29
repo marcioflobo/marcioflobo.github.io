@@ -1,3 +1,16 @@
 .img-circle{
   border-radius: 90px;
 }
+
+.simply-link{
+  color: white;
+}
+
+.simply-link:hover{
+  color: black;
+}
+
+.port-img{
+  height: 342px ;
+  width: 650px;
+}
